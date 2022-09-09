@@ -1,0 +1,24 @@
+body.light {
+  background-color: rgb(231, 231, 231);
+  display: flex;
+  justify-content: center;
+  font-family: "Roboto", sans-serif;
+  font-size: 18px;
+}
+
+.new-todo-light {
+  background-color: white;
+  height: 70px;
+  margin-top: 50px;
+  border-radius: 6px;
+  display: flex;
+}
+
+.todo-items-wrapper-light {
+  background-color: white;
+  color: hsl(233, 14%, 35%);
+  margin-top: 30px;
+  border-radius: 6px;
+  overflow: hidden;
+  /* ​box-shadow: 0px 2px 30px 0px rgb(0 0 0 / 40%); */
+}
